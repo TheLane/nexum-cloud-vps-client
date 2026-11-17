@@ -5,7 +5,7 @@
 > Windows-клиент Nexum Cloud для подключения собственных компьютеров и инструментов к AI-ассистентам через **Model Context Protocol (MCP)**. Клиент открывает исходящее защищённое соединение с Nexum Cloud VPS, а доступ выдаётся через браузерную авторизацию. Не требуется открывать входящие порты домашней сети.
 
 [![Windows](https://img.shields.io/badge/Windows-x64-0078D4?logo=windows)](#системные-требования)
-[![Rust](https://img.shields.io/badge/Rust-client-CE422B?logo=rust)](#сборка-из-исходников)
+[![Rust](https://img.shields.io/badge/Rust-client-CE422B?logo=rust)](#состав-выпуска)
 [![MCP](https://img.shields.io/badge/MCP-remote-28A69A)](https://modelcontextprotocol.io/)
 [![Latest release](https://img.shields.io/github/v/release/TheLane/nexum-cloud-vps-client?label=release)](https://github.com/TheLane/nexum-cloud-vps-client/releases/latest)
 

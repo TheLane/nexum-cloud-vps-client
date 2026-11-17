@@ -5,7 +5,7 @@
 > A Windows client connecting your own computer and tools to AI assistants through **Model Context Protocol (MCP)**. Nexum Cloud uses outbound authenticated connectivity, browser-based OAuth and a central access gateway. You don't have to expose inbound ports on your home network.
 
 [![Windows](https://img.shields.io/badge/Windows-x64-0078D4?logo=windows)](#system-requirements)
-[![Rust](https://img.shields.io/badge/Rust-client-CE422B?logo=rust)](#building-from-source)
+[![Rust](https://img.shields.io/badge/Rust-client-CE422B?logo=rust)](#distribution-contents)
 [![MCP](https://img.shields.io/badge/MCP-remote-28A69A)](https://modelcontextprotocol.io/)
 [![Latest release](https://img.shields.io/github/v/release/TheLane/nexum-cloud-vps-client?label=release)](https://github.com/TheLane/nexum-cloud-vps-client/releases/latest)
 
